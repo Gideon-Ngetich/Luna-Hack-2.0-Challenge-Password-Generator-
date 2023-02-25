@@ -76,6 +76,7 @@ body {
   margin: 15px 0;
   font-size: 20px;
   font-weight: 800;
+  color: azure;;
 }
 .generate-btn{
     display: flex;
