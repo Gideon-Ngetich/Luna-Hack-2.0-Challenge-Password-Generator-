@@ -59,7 +59,7 @@ function generatePassword(lower, upper, number, symbol, elementLength){
             results.innerHTML = ''
         
 
-        }, 5000);
+        }, 20000);
     }
 
     const finalPassword = generatedPassword.slice(0, elementLength)
