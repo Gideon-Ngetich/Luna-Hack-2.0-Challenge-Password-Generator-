@@ -42,7 +42,7 @@ body {
   height: 50px;
   width: 400px;
   background-color: rgb(190, 190, 190);
-  color: azure
+  color: azure;
   margin: 20px 10px 20px 10px;
 }
 .results-container .results {
